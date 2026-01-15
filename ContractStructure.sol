@@ -2,7 +2,7 @@
 
 pragma solidity >=0.8.2 <0.9.0; // semantic version
 
-contract constructStructure { // 合约名 -constructStructure
+contract ConstructStructure { // 合约名 -constructStructure
     // 1- 成员变量
     /*
       成员变量
