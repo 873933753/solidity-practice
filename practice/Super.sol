@@ -33,3 +33,5 @@ contract IsCounter1 is Counter1 {
         count = count*3;
     }
 }
+
+
